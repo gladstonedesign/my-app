@@ -7,7 +7,7 @@ const IndexPage = () => (
   <Layout>
     <h1>Freelance Design Agency</h1>
     <p>Design, prototypes, illustrations, motion graphics and much more</p>
-    <Link to="/page-2/">Watch Videos</Link>
+    <Link to="/page-2/">Watch Supercool Videos</Link>
   </Layout>
 )
 
